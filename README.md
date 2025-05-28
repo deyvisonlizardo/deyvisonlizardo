@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<li>I'm currently working on a borrowing items forms webpage.</li>
+<li>I'm currently working on a simple browser app.</li>
 <li>I'm currently learning and trying to make my codes easier to understand, clean and organized.</li>
